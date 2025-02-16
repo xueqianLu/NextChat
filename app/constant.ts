@@ -28,7 +28,8 @@ export const TENCENT_BASE_URL = "https://hunyuan.tencentcloudapi.com";
 export const MOONSHOT_BASE_URL = "https://api.moonshot.cn";
 export const IFLYTEK_BASE_URL = "https://spark-api-open.xf-yun.com";
 
-export const DEEPSEEK_BASE_URL = "https://api.deepseek.com";
+// export const DEEPSEEK_BASE_URL = "https://api.deepseek.com";
+export const DEEPSEEK_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1";
 
 export const XAI_BASE_URL = "https://api.x.ai";
 
